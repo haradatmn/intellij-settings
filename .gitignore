@@ -1,6 +1,6 @@
 ## java file
 *.class
-*.jar
+#*.jar
 *.war
 *.ear
 *.db
